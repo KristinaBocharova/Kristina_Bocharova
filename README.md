@@ -13,7 +13,7 @@ I enjoy solving complex data challenges and creating **clear, insightful visuali
 
 ### 🛠️ Technical Skills  
 - **Languages:** Python (pandas, numpy, matplotlib, seaborn), SQL  
-- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
+- **Data Visualization:** Tableau, Power BI 
 - **Analytics:** A/B testing, cohort analysis, marketing analytics  
 
 ### 📫 Let's Connect   
