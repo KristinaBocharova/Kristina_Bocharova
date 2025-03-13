@@ -11,10 +11,11 @@ I enjoy solving complex data challenges and creating **clear, insightful visuali
 - 🚀 Passionate about continuous learning and improving my skills  
 - 🎨 Enjoy designing dashboards in Tableau and Power BI  
 
-### 🛠️ Technical Skills  
-- **Languages:** Python (pandas, numpy, matplotlib, seaborn), SQL  
-- **Data Visualization:** Tableau, Power BI 
-- **Analytics:** A/B testing, cohort analysis, marketing analytics  
+### 🛠️  Skills  
+- **Data Analysis & Visualization:** Google Sheets (pivot tables, formulas), MS Excel, SQL, Tableau, Python (pandas, numpy, scipy, matplotlib, seaborn, plotly)
+- **Tech Stack:** Jupyter Notebook, VS Code, GitHub, ChatGPT
+- **A/B Test & Machine Learning:** statistical hypothesis testing, ICE/RICE framework, sklearn
+ 
 
 ### 📫 Let's Connect   
 - **LinkedIn:** https://www.linkedin.com/in/kristina-bocharova/
